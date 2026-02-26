@@ -3,6 +3,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![WordPress](https://img.shields.io/badge/WordPress-5.0+-orange.svg)
 ![License](https://img.shields.io/badge/license-GPLv2-green.svg)
+<a href="https://hits.sh/github.com/sapthesh/Rapid-CSS/"><img alt="Hits" src="https://hits.sh/github.com/sapthesh/Rapid-CSS.svg"/></a>
 
 A lightweight WordPress plugin to securely add custom CSS to your site with a native syntax-highlighting editor.
 
